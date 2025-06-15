@@ -1,3 +1,0 @@
-1
-	
-Super Mario 64 DS	nds	ANY	1.1	Nintendo	https://www.dropbox.com/scl/fi/fumj6ym23odq7m4navwgy/sm64ds.nds?rlkey=utqoi2i6be0v78btpjjar28i6&st=5ss57x9m&dl=1	sm64ds.nds	16777216	https://raw.githubusercontent.com/EPFCoding/KekatsuRepo/4cafa6b49d16038b4df9b51376ca1a9b024ccf0d/img/sm64ds.png
