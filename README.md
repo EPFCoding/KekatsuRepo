@@ -13,6 +13,7 @@ _(WIP)_
 2. Inside that folder, make a file named `databases.txt`.
 3. Paste the following line into that file:
 <pre>EPF78's Repo	https://gist.githubusercontent.com/EPFCoding/3cd7b96d9087ac32941f97348e8ee836/raw/</pre>
+(Make sure to copy and paste it directly from here, since it has a special character that Kekatsu uses for some reason)
 
 ---
 
