@@ -18,6 +18,8 @@ _(WIP)_
 
 > ⚠️ **Disclaimer:** This is a Work In Progress (WIP), things may break. _(and yes, I know it's slow asf but that's the DS side)_
 
+> 📝 **Note:** This is a Self-Updating repo, so you don't need to redo the SD thing every time it updates.
+
 ---
 
-Made with 💾 by **EPF78**
+Made with 💾 by **EPF78 (a.k.a. only on github as "EPFCoding")**
